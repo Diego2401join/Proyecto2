@@ -20,6 +20,19 @@ Este proyecto en Python realiza un análisis automatizado de datos climáticos h
 
 ## ⚙️ Requisitos
 
+### 📦 Librerías utilizadas
+- `pandas`
+- `numpy`
+- `scipy`
+- `matplotlib`
+- `seaborn`
+- `argparse`
+- `os`
+- `datetime`
+- `time`
+- `functools`
+
+
 - Python 3.7 o superior
 - Bibliotecas:
   ```bash
@@ -72,4 +85,3 @@ Todos los resultados (CSV y gráficas) se guardan en la carpeta `resultados/`.
 
 ## 👨‍💻 Autor
 *Proyecto desarrollado como ejemplo de análisis automatizado de datos climáticos y solución de EDO.*
-
