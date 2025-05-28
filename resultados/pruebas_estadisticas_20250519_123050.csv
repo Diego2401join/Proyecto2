@@ -1,0 +1,7 @@
+,var1,var2,correlacion_pearson,p_valor
+0,Max_temperature (°C),Min_temperature (°C),0.1282231057015749,2.2623942307680894e-09
+1,Max_temperature (°C),Rain (mm),-0.27910772236620507,6.562689557632145e-40
+2,Max_temperature (°C),Wind (km/h),0.5758348896150216,7.474432351847192e-191
+3,Min_temperature (°C),Rain (mm),0.21361095093290713,1.0869140248680734e-23
+4,Min_temperature (°C),Wind (km/h),-0.05720375467605593,0.00786068072553956
+5,Rain (mm),Wind (km/h),-0.3804448127263867,2.8599917086117445e-75
